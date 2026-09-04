@@ -49,3 +49,4 @@ switch (opcion)
 }
 
 Console.WriteLine($"\nResultado: {resultado}");
+Console.WriteLine("Gracias por usar Calculadora Agil.");
